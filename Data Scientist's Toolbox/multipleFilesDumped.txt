@@ -1,0 +1,5 @@
+aa <-
+"hello world"
+bb <-
+structure(list(a = 1, b = "hola hola"), class = "data.frame", row.names = c(NA, 
+-1L))
